@@ -1,34 +1,66 @@
-### Hi there 👋
+# Arya Kavian | Full-Stack Developer
 
-I'm Arya, a full-stack developer with more than 7 years of experience. I've built everything from custom websites and progressive web apps to automation bots that streamline tasks on social media and administrative platforms. With a foundation in electronics and a focus on clean, efficient code, I aim to create solutions that are both technically sound and user-friendly. I’m always playing around with new tech like Docker and Git to make things smoother.
+> Building scalable web solutions with 7+ years of professional experience
 
-- 🌿 I'm currenty learning AI
-- 📩 You can reach me at aryakvn@gmail.com
-- ⚡ Fun fact: I like to take photos and play the piano
+## About Me
+
+Full-stack developer with 7+ years of experience building web applications and automation tools. I work across the entire stack, from frontend interfaces to backend APIs and deployment. My background in electronics gives me a solid understanding of how systems work together.
+
+**Currently learning:** AI and machine learning integration, Agent Development, Networking and CyberSecurity
+
+**Open to:** Remote and Onsite opportunities across Europe
+
+## Technical Expertise
+
+### Frontend Development
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=vuetify&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
+![TAILWIND](https://img.shields.io/badge/Tailwind_CSS-grey?style=flat-square&logo=tailwind-css&logoColor=38B2AC)
+
+### Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django_REST-092E20?style=flat-square&logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+### DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=flat-square&logo=gitlab&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+### Networking
+![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=flat-square&logo=mikrotik&logoColor=white)
+
+## Experience Highlights
+
+- Built custom web applications and progressive web apps for various clients
+- Developed automation bots for social media and administrative platforms
+- Created RESTful APIs and integrated third-party services
+- Deployed applications using Docker and managed CI/CD pipelines
+- Configured MikroTik routers for network infrastructure projects
+
+## Approach
+
+I focus on writing clean, maintainable code and finding practical solutions to technical problems. I enjoy working with new technologies and learning as I go. My electronics background helps me understand systems at a deeper level, which comes in handy for debugging and optimization.
+
+## Contact
+
+Feel free to reach out if you want to discuss projects or opportunities.
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aryakvn@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arya-kavian-925994191/)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@aryakvn)
+
+## GitHub Activity
+
+![GitHub Stats](https://img.shields.io/github/followers/aryakvn?style=flat-square&logo=github)
+![GitHub Stars](https://img.shields.io/github/stars/aryakvn?style=flat-square&logo=github)
 
 ---
-### Connect with me
-<a href="https://reddit.com/user/aryakvn-/"><img src="https://1000logos.net/wp-content/uploads/2017/05/symbol-Reddit-Logo-390x500.jpg" style="height: 32px"/></a>
-<a href="https://instagram.com/aryakvn/"><img src="https://1000logos.net/wp-content/uploads/2017/02/Instagram-Logo-500x281.png" style="height: 32px"/></a>
-<a href="https://www.linkedin.com/in/arya-kavian-925994191/"><img src="https://1000logos.net/wp-content/uploads/2017/03/Symbol-LinkedIn-500x500.jpg" style="height: 32px"/></a>
-<a href="https://medium.com/@aryakvn"><img src="https://images.icon-icons.com/3041/PNG/512/medium_logo_icon_189223.png" style="height: 32px"/></a>
 
----
-### My Tech Stack
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vuejs/vuejs-original.svg" style="height: 32px" /><span/>
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/vuetify/vuetify-original.svg" style="height: 32px" /><span/>
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/nodejs/nodejs-original.svg" style="height: 32px" /><span/>
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/express/express-original.svg" style="height: 32px" /><span/>
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/django/django-plain.svg" style="height: 32px" /><span/>
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/djangorest/djangorest-original.svg" style="height: 32px" /><span/>
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/docker/docker-original.svg" style="height: 32px" /><span/>
-
----
-### Stats
-![GitHub User's stars](https://img.shields.io/github/stars/aryakvn)
-![GitHub followers](https://img.shields.io/github/followers/aryakvn)
-![Reddit User Karma](https://img.shields.io/reddit/user-karma/link/aryakvn-)
-
-
-
-
+*Outside of coding, I enjoy photography and playing piano.*
