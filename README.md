@@ -59,6 +59,7 @@ Feel free to reach out if you want to discuss projects or opportunities.
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aryakvn@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arya-kavian-925994191/)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@aryakvn)
+[![Telegram](https://img.shields.io/badge/Telegram-000000?style=flat-square&logo=medium&logoColor=white&color=%2326A5E4)](https://t.me/webeloperr)
 
 ## GitHub Activity
 
