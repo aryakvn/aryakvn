@@ -36,6 +36,10 @@ Full-stack developer with 7+ years of experience building web applications and a
 ### Networking
 ![MikroTik](https://img.shields.io/badge/MikroTik-293239?style=flat-square&logo=mikrotik&logoColor=white)
 
+### Gen AI
+![Claude Code](https://img.shields.io/badge/Claude_Code-555555?style=flat-square&logo=claude&logoColor=white&color=%23d97757)
+![OpenCode](https://img.shields.io/badge/Open_Code-555555?style=flat-square&logo=opencode&logoColor=white&color=black)
+
 ## Experience Highlights
 
 - Built custom web applications and progressive web apps for various clients
